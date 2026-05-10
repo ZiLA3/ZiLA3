@@ -1,11 +1,13 @@
 # **Hello World!**
 
-## Team Projects
+## Team Projects 
+### 포석
 
 ### [Luminus Witch](https://github.com/ZiLA3/Witch)
 2025-06 ~ 2026-01
-덱 빌딩 기반의 로그라이크 게임입니다.
-[Stove Indie](https://store.onstove.com/ko/games/103045)
+덱 빌딩 기반의 로그라이크 게임입니다. 
+ 
+[**Stove Indie**](https://store.onstove.com/ko/games/103045)
 
 ### Minimis
 2026-01 ~ 진행 중
